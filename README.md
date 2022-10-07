@@ -1,3 +1,3 @@
 # ninja_trips
 
-A new Ninja Flutter project.
+Animation added in tripList.dart in Shared directory, Ninja Flutter project.
